@@ -1,1 +1,1 @@
-new ClipboardJS('.btn');
+var clipboard = new Clipboard(".clipboard");
